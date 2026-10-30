@@ -1,6 +1,7 @@
 # Hola, soy Jacobo 👋
 
 **Founder & CMO @ Pregón** · Producto & Growth · E-commerce con IA · Meta Ads
+
 Estudiante de Professional Business Tech @ Universidad Icesi · Cali, Colombia
 
 *Read in English: [README.md](README.md)*
